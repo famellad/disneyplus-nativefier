@@ -1,0 +1,59 @@
+/* Type your CSS code here. */
+
+.wrapper-right, #account-dropdown ul {
+    margin-right: 64px !important;
+}
+
+#nav-initial, #app_navigation {
+    padding-right: 64px !important;
+}
+
+#nav, #app_navigation {
+    height: 47px !important;
+}
+
+#nav, .sc-btzYZH {
+    -webkit-app-region: drag;
+}
+
+.sc-btzYZH {
+    position: fixed !important;
+    top: 0px !important;
+    left: 0px !important;
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.sc-epnACN {
+    margin-top: 40px !important;
+}
+
+#close-button, .wrapper, .wrapper-right, .sc-iQKALj, #account-dropdown, #account-dropdown ul, #logo {
+    -webkit-app-region: no-drag;
+}
+
+#close-button {
+    position: fixed;
+    padding-top: 4px;
+    top: 0px;
+    right: 0px;
+    z-index: 99;
+}
+
+#buttons-container {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    width: 41px;
+    height: 41px;
+    z-index: 99;
+}
+
+/* Get the player on top of everything */
+#webAppRoot {
+    z-index: 100 !important;
+}
+
+/* Hide scrollbar */
+*::-webkit-scrollbar {
+  display: none;
+ }

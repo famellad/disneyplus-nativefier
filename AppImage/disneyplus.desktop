@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Disney+
+Exec=AppRun
+Terminal=false
+Type=Application
+Icon=disneyplus
+StartupWMClass=Disney+
+Comment=Disney+ desktop app, DRM enabled.
+Categories=AudioVideo;
