@@ -1,5 +1,5 @@
 # primevideo-nativefier
-Code to get Prime Video working as a native app using the nodejs nativefier
+Code to get Disney+ working as a native app using the nodejs nativefier
 
 ## Requirements
 You need [nativefier](https://github.com/nativefier/nativefier) installed and working for the core app to build and run.
